@@ -38,6 +38,8 @@ Contributed to a published Android remote desktop application.
 - Developed user interfaces and improved remote-control interactions.
 - Designed promotional graphics for the Google Play listing.
 
+Source code is private and proprietary.
+
 ### 🎬 [3HRecorder — Screen Recorder & Media Editor](https://github.com/duyhoang17930/XRecorder)
 
 **Flutter | Android Native | MediaProjection | MediaCodec | Whisper.cpp**
