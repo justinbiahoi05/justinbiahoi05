@@ -76,6 +76,6 @@ Engineer's Degree in Software Engineering
 2023 – Present | GPA: 3.30/4.00
 
 ## 📫 Contact
-- **Email:** danghoanghuy2018@gmail.com
+- **Email:** danghoangdanghoang2018@gmail.com
 - **GitHub:** [justinbiahoi05](https://github.com/justinbiahoi05)
 - **Location:** Da Nang, Vietnam
