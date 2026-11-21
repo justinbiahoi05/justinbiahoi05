@@ -8,6 +8,8 @@ My experience spans mobile applications, client-server systems, networking, mult
 
 I enjoy exploring new technologies, understanding how systems work, and turning ideas into functional applications.
 
+🌐 **Portfolio:** [danghoanghuy-portfolio.vercel.app](https://danghoanghuy-portfolio.vercel.app/)
+
 ## 🛠️ Technical Skills
 
 **Programming Languages**
